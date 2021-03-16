@@ -1,0 +1,99 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Yen Bai",
+      "image": "https://cdn2.ivivu.com/2020/05/15/16/ivivu-man-moc-chau-360x225.gif",
+      "place": "Yên bái",
+      "name": "Tour Mù Cang Chải 2N1D: Bản Lướt - Ngọc Chiến - Sơn La",
+      "day": "4 Ngày 3 Đêm",
+      "author": "typicode",
+      "price": "5.290.000",
+      "amount": "20"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "This is the first Json Server",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+
+  "toursTravel": [
+    {
+      "id": 1,
+      "image": "https://cdn2.ivivu.com/2020/05/15/16/ivivu-man-moc-chau-360x225.gif",
+      "place": "Yên bái",
+      "name": "Tour Mù Cang Chải 2N1D: Bản Lướt - Ngọc Chiến - Sơn La",
+      "day": "4 Ngày 3 Đêm",
+      "transports": [
+        {
+          "transport": "https://img.icons8.com/material-rounded/14/000000/bus.png"
+        }
+      ],
+      "descriptions": [
+        {
+          "description": "Ngắm Măm Xôi Tú Lệ"
+        },
+        {
+          "description": "Bản Lướt Ngọc Chiến"
+        },
+        {
+          "description": "Đồi Chè Thanh Sơn"
+        }
+      ],
+      "price": "5.290.000",
+      "start": "03-11-2020",
+      "apply": "2 khách",
+      "startDays": [
+        {
+          "day": "03-11-2020"
+        },
+        {
+          "day": "10-11-2020"
+        },
+        {
+          "day": "17-11-2020"
+        },
+        {
+          "day": "24-11-2020"
+        },
+        {
+          "day": "01-12-2020"
+        },
+        {
+          "day": "10-12-2020"
+        },
+        {
+          "day": "27-12-2020"
+        }
+      ],
+      "calendarDays": [
+        {
+          "startDay": "T3, 03/11/2020",
+          "abouttDay": "T3, 08/11/2020"
+        },
+        {
+          "startDay": "T3, 10/11/2020",
+          "abouttDay": "T3, 15/11/2020"
+        },
+        {
+          "startDay": "T3, 17/11/2020",
+          "abouttDay": "T3, 12/11/2020"
+        },
+        {
+          "startDay": "T3, 24/11/2020",
+          "abouttDay": "T3, 29/11/2020"
+        },
+        {
+          "startDay": "T3, 01/12/2020",
+          "abouttDay": "T3, 06/12/2020"
+        }
+      ]
+    }
+  ]
+}
